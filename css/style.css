@@ -104,12 +104,12 @@ body {
 /* ends header */
 /* starts slider section */
 .main-slider {
-  padding-top: 50px;
+  /* padding-top: 50px; */
 }
 
 .main-slick {
   width: 100%;
-  background: #e8eaed;
+  background: white;
 }
 
 .image-slide {
@@ -126,7 +126,7 @@ body {
 }
 .slick-prev:before,
 .slick-next:before {
-  color: rgb(85, 83, 83);
+  color: #e8eaed;
   font-size: 40px;
 }
 
